@@ -283,43 +283,6 @@ input[type=text]:focus{
 }
 
 
-.headingtm {
-  background-color: #fff;
-  align-self: center;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 42%;
-  font-size: medium;
-}
-
-
-/* input area */
-.areaip {
-  height: 900px;
-  padding-left: 30%;
-  padding-top: 350px;
-}
-
-.internalip {
-  position: relative;
-  align-self: center;
-}
-
-button {
-  align-self: center;
-  margin-left: 17%;
-  font-size: x-large;
-  font-family: 'Courier New', Courier, monospace, Impact;
-  color: #fff;
-  padding: 10px;
-  width: 20%;
-  border-radius: 35px;
-  border-style: solid;
-  border-width: medium;
-  border-color: #3c9b9e;
-  background-color: transparent;
-  cursor: pointer;
-}  
 
 button:hover {
   box-shadow: 0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5,
